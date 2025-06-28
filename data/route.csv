@@ -1,0 +1,17 @@
+distance,duration,type,instruction,name,way_points,exit_number
+941.6,98.9,11,Head northwest on Jalan Medan Merdeka Utara,Jalan Medan Merdeka Utara,"[0, 22]",
+145.3,22.4,12,Keep left onto Jalan Abdul Muis,Jalan Abdul Muis,"[22, 30]",
+145.8,23.3,6,Continue straight onto Jalan Abdul Muis,Jalan Abdul Muis,"[30, 39]",
+165.5,14.9,0,Turn left onto Jalan Tanah Abang I,Jalan Tanah Abang I,"[39, 42]",
+2900.6,289.9,1,Turn right onto Jalan Tanah Abang I,Jalan Tanah Abang I,"[42, 95]",
+2927.2,123.9,0,"Turn left onto Jalan Letnan Jenderal S. Parman, 2","Jalan Letnan Jenderal S. Parman, 2","[95, 169]",
+131.0,15.7,12,Keep left,-,"[169, 179]",
+2892.7,122.5,0,"Turn left onto Jalan Tentara Pelajar, 12","Jalan Tentara Pelajar, 12","[179, 229]",
+1339.2,79.3,12,Keep left,-,"[229, 264]",
+1148.5,48.6,6,"Continue straight onto Jalan Teuku Nyak Arief, 12","Jalan Teuku Nyak Arief, 12","[264, 290]",
+1995.2,84.5,12,"Keep left onto Jalan Sultan Iskandar Muda, 12","Jalan Sultan Iskandar Muda, 12","[290, 327]",
+215.7,9.1,12,"Keep left onto Jalan Sultan Iskandar Muda, 12","Jalan Sultan Iskandar Muda, 12","[327, 335]",
+375.2,23.0,13,Keep right,-,"[335, 354]",
+17.6,6.3,0,Turn left,-,"[354, 355]",
+26.1,4.7,7,Enter the roundabout and take the 1st exit,-,"[355, 361]",1.0
+0.0,0.0,10,"Arrive at your destination, on the left",-,"[361, 361]",
